@@ -1,0 +1,15 @@
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojAssemblyReference.cache
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
