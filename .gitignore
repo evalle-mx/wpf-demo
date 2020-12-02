@@ -1,2 +1,6 @@
 #Ignore Visual Studio
 .vs
+## git rm -r --cached path_to_your_folder/
+WPFDemo/bin/
+WPFDemo/obj/
+

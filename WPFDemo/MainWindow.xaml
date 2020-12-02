@@ -34,7 +34,35 @@
                    FontWeight="Bold" Text="1er Nombre"/>
         <TextBox x:Name="firstNameText" Grid.Column="2" Grid.Row="2" Width="150"/>
 
+        <ComboBox x:Name="myComboBox" Grid.Column="1" Grid.Row="3" 
+                  Grid.ColumnSpan="2" Margin="10">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <!--<TextBlock Text="{Binding FullName}"/>-->
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{ Binding Icon }" Height="20" Width="20" />
+                        <!--<Image Source="C:\Users\netto\Pictures\demo\Icons\Luma-Blue.png" />-->
+                        <TextBlock Text="{Binding FullName}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
         <Button x:Name="submitButton" Content="Ejecutar" Margin="10"
-                Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2" Click="submitButton_Click"/>
+                Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2" Click="submitButton_Click"/>
+
+        <!--<Image Grid.Row="1" Grid.Column="4" Grid.RowSpan="6" Source="resources\img\Selena.5.JPG"/>-->
+        <!--<MediaElement Grid.Row="1" Grid.Column="4" Grid.RowSpan="6" Source="resources\video\SOMEVIDEO.mp4"/>-->
+
+        <ScrollViewer Grid.Row="1" Grid.Column="4" Grid.RowSpan="6">
+            <StackPanel Orientation="Vertical">
+                <Image MaxHeight="200" MaxWidth="200" Source="C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\resources\img\selena1.png" />
+                <Image MaxHeight="200" MaxWidth="200" Source="C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\resources\img\selena2.png" />
+                <Image MaxHeight="200" MaxWidth="200" Source="C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\resources\img\selena3.png" />
+                <Image MaxHeight="200" MaxWidth="200" Source="C:\Users\netto\Documents\ProgrammingC#\WPFDemo\WPFDemo\resources\img\selena4.png" />
+            </StackPanel>
+        </ScrollViewer>
+        
+
     </Grid>
 </Window>
